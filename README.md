@@ -1,4 +1,4 @@
-# Machine-learning-clasification
+# Machine-learning-classification
 
 Project Description
 
